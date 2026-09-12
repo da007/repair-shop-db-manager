@@ -1,0 +1,21 @@
+# Байт-код Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальные окружения
+venv/
+env/
+.venv/
+
+# Логи и локальные файлы базы данных
+*.log
+app.log
+
+# Секреты и ключи (КРИТИЧЕСКИ ВАЖНО)
+.env
+setting.crypt
+
+# Настройки IDE
+.vscode/
+.idea/

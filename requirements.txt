@@ -1,0 +1,7 @@
+flet
+mysql-connector-python
+python-Levenshtein
+bcrypt
+cryptography
+
+python-dotenv
